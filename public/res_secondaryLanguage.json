@@ -1,0 +1,144 @@
+{
+    "basic_info": {
+      "description_header": "안녕하세요",
+      "description": ["👋 This is Minji Kang, a new developer studying back-end because I became more interested in development while studying java. 👋   "],
+      "description1":  "I want to be a developer who develops effectively from the standpoint of users and developers so that users can give an exclamation point ❗ when they throw a question mark❓.👩‍💻 ",
+      "description2":  "By setting clear goals and planning, we will repay you by demonstrating our best capabilities in our work. Take good care of me. :)",
+      
+        "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+     
+      {
+        
+        "title": "MealZo",
+        "startDate": "2022",
+        "description": "This is one of the first web developments in the academy. At the same time as the increase in single-person households and the prolonged Corona 19, the sale of meal kits as a convenient meal replacement at home has surged. We have developed a sales mall platform!",
+        "images": [
+          "images/portfolio/mealzo/mealzomain.jpg",
+          "images/portfolio/mealzo/mealzomypage1.jpg",
+          "images/portfolio/mealzo/melzodetail.jpg"
+        ],
+        "url": "https://github.com/gmralwnr/MealZo_final",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Springboot"
+          },
+          {
+            "class": "devicon-oracle-original",
+            "name": "Oracle 11"
+          },
+          {
+            "class": "devicon-gradle-plain",
+            "name": "Gradle"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          },{
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          }
+
+        ]
+      },
+      {
+        "title": "Coming soon",
+        "startDate": "2022",
+        "description": "",
+        "images": [
+          "images/portfolio/mealzo/ready.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Coming soon ",
+        "startDate": "2022",
+        "description": "",
+        "images": [
+          "images/portfolio/mealzo/ready.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "ezen.ac",
+        "title": "Back-End Developer , Mealzo",
+        "years": "03.2022 - present",
+        "mainTech": [
+          "java"
+        ],
+        "technologies": [
+          "Eclipes",
+          "gradle",
+          "JavaScript",
+          "oracle sql developer",
+          "springboot",
+          "github",
+          ".jquery",
+          "css3",
+          "html5"
+        ]
+      },
+      {
+        "company": "EZEN.ACADEMY",
+        "title": "[Smart Web & Content development] JAVA WEB Developer(Back-End)",
+        "years": "09.2021 - 05.2022",
+        "mainTech": [
+          "java"
+        ],
+        "technologies": [
+          "Java",
+          ".."
+          
+        ]
+      }
+    ]
+  }
