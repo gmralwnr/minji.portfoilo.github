@@ -1,0 +1,143 @@
+ 
+{
+    "basic_info": {
+      "description_header": "안녕하세요",
+      "description": ["👋 java 공부하면서 개발에 더 흥미가 생겨 back-end 공부 하고있는 신입 개발자 강민지입니다 👋   "],
+      "description1":  "사용자가 물음표❓를 던질 때 느낌표❗를 줄 수 있도록 ,   사용자와 개발자의 입장에 서서 효율적으로 개발하는 개발자가 되고싶습니다.👩‍💻 ",
+      "description2":  "명확한 목표를 설정하고 계획하여 업무에 있어서 효율적인 시간관리 능력으로  최고의 역량을 발휘하여 보답하겠습니다. 잘 부탁드립니다. :)",
+      
+        "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "MealZo",
+        "startDate": "2022",
+        "description": "아카데미에서 첫 번째 웹 개발 중 하나입니다. 1인가구 증가와 동시에 코로나19 장기화에 따라 가정에서 간편한 식사 대체용으로 밀키트 판매가 급증하였습니다 이에 관리자와 고객의 입장에 서서 편리하게 이용 할 수 있도록 밀키트 판매 쇼핑몰 플랫폼을 개발하였습니다!",
+        "images": [
+          "images/portfolio/mealzo/mealzomain.jpg",
+          "images/portfolio/mealzo/mealzomypage1.jpg",
+          "images/portfolio/mealzo/melzodetail.jpg"
+        ],
+        "url": "https://github.com/gmralwnr/MealZo_final",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Springboot"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jquery"
+          },
+          {
+            "class": "devicon-oracle-plain",
+            "name": "Oracle 11"
+          },
+          {
+            "class": "devicon-gradle-plain",
+            "name": "Gradle"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          },{
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          }
+        ]
+      },
+      {
+        "title": "준비중입니다 ",
+        "startDate": "2022",
+      
+        "images": [
+          "images/portfolio/mealzo/ready.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "준비중입니다",
+        "startDate": "2022",
+        "description": "",
+        "images": [
+          "images/portfolio/mealzo/ready.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      }
+    ],
+  
+        "experience": [
+          {
+            "company": "이젠아카데미",
+            "title": "Mealzo - Project",
+            "years": "03.2022 - present",
+            "mainTech": [
+              "java"
+            ],
+            "technologies": [
+              "Eclipes",
+              "gradle",
+              "JavaScript",
+              "oracle sql developer",
+              "springboot",
+              "github",
+              ".jquery",
+              "css3",
+              "html5"
+            ]
+          },
+          {
+            "company": "이젠아카데미",
+            "title": "[스마트웹&콘텐츠개발]자바(JAVA) 웹 개발자(백엔드)",
+            "years": "09.2021 - 05.2022",
+            "mainTech": [
+              "java"
+            ],
+            "technologies": [
+              "Java",
+              ".."
+              
+            ]
+      }
+    ]
+  }

@@ -1,0 +1,86 @@
+{
+    "basic_info": {
+      "name": "{   MinJi Kang  }",
+      "email": "gmralwnr@naver.com",
+      "titles": [ "Back-end Developer", "Web Developer", "Mountain climber🏔️ ", "Exercise addict🏋️‍♀️" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/gmralwnr",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "minji.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+         
+        },
+
+        {
+          "name": "Springboot",
+          "class": "devicon-spring-plain",
+          "level": "80"
+        },
+        {
+          "name": "Maven",
+          "class": "devicon-apache-plain",
+          "level": "80"
+        },
+        {
+          "name": "Gradle",
+          "class": "devicon-gradle-plain",
+          "level": "80"
+        },
+
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Jquery",
+          "class": "devicon-jquery-plain",
+          "level": "80"
+        },
+        {
+          "name": "javascript",
+          "class": "devicon-javascript-plain",
+          "level": "80"
+        },
+
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+  
+       
+        {
+          "name": "CSS3",
+          "class": "devicon-css3-plain",
+          "level": "70"
+        },
+        
+        {
+          "name": "Oracle 11",
+          "class": "devicon-oracle-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "50"
+        },
+        {
+          "name": "Tomcat",
+          "class": "devicon-tomcat-line",
+          "level": "90"
+        }
+      ]
+    }
+  }
